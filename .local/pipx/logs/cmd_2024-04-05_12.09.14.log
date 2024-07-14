@@ -1,0 +1,41 @@
+   207.6ms (setup:799): 2024-04-05 12:09:14
+   207.8ms (setup:800): /usr/bin/pipx install python3
+   207.8ms (setup:801): pipx version is 1.2.0
+   207.9ms (setup:802): Default python interpreter is '/usr/bin/python3'
+   209.3ms (package_name_from_spec:322): Determined package name: python3
+   209.6ms (package_name_from_spec:323): Package name determined in 0.0s
+   210.4ms (run_subprocess:173): running /usr/bin/python3 -m venv --without-pip /home/ngallego/.local/pipx/venvs/python3
+   279.5ms (run_subprocess:186): stdout:
+   279.7ms (run_subprocess:188): stderr:
+   279.7ms (run_subprocess:189): returncode: 0
+   286.0ms (run_subprocess:173): running /home/ngallego/.local/pipx/venvs/python3/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+   302.9ms (run_subprocess:186): stdout: /home/ngallego/.local/pipx/venvs/python3/lib/python3.11/site-packages
+   303.0ms (run_subprocess:189): returncode: 0
+   303.2ms (run_subprocess:173): running /home/ngallego/.local/pipx/shared/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+   322.0ms (run_subprocess:186): stdout: /home/ngallego/.local/pipx/shared/lib/python3.11/site-packages
+   322.1ms (run_subprocess:189): returncode: 0
+   322.3ms (run_subprocess:173): running /home/ngallego/.local/pipx/venvs/python3/bin/python --version
+   324.1ms (run_subprocess:186): stdout: Python 3.11.6
+   324.2ms (run_subprocess:188): stderr:
+   324.2ms (run_subprocess:189): returncode: 0
+   324.5ms (_parsed_package_to_package_or_url:147): cleaned package spec: python3
+   324.9ms (run_subprocess:173): running /home/ngallego/.local/pipx/venvs/python3/bin/python -m pip install python3
+  1353.0ms (run_subprocess:189): returncode: 1
+  1353.6ms (subprocess_post_check_handle_pip_error:335): '/home/ngallego/.local/pipx/venvs/python3/bin/python -m pip install python3' failed
+  1354.0ms (subprocess_post_check_handle_pip_error:352): Fatal error from pip prevented installation. Full pip output in file:
+    /home/ngallego/.local/pipx/logs/cmd_2024-04-05_12.09.14_pip_errors.log
+  1356.1ms (rmdir:55): removing directory /home/ngallego/.local/pipx/venvs/python3
+  1357.2ms (cli:866): PipxError: Error installing python3.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/pipx/main.py", line 863, in cli
+    return run_pipx_command(parsed_pipx_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/pipx/main.py", line 214, in run_pipx_command
+    return commands.install(
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/pipx/commands/install.py", line 60, in install
+    venv.install_package(
+  File "/usr/lib/python3/dist-packages/pipx/venv.py", line 253, in install_package
+    raise PipxError(
+pipx.util.PipxError: Error installing python3.
+  1364.5ms (cli:874): pipx finished.

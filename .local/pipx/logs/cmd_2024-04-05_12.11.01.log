@@ -1,0 +1,49 @@
+   268.5ms (setup:799): 2024-04-05 12:11:01
+   268.7ms (setup:800): /usr/bin/pipx run matplotlib --version
+   268.8ms (setup:801): pipx version is 1.2.0
+   268.8ms (setup:802): Default python interpreter is '/usr/bin/python3'
+   273.5ms (run:106): venv location is /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958
+   274.2ms (run_subprocess:173): running /usr/bin/python3 -m venv --without-pip /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958
+   401.2ms (run_subprocess:186): stdout:
+   401.4ms (run_subprocess:188): stderr:
+   401.5ms (run_subprocess:189): returncode: 0
+   407.2ms (run_subprocess:173): running /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+   432.1ms (run_subprocess:186): stdout: /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/lib/python3.11/site-packages
+   432.2ms (run_subprocess:189): returncode: 0
+   432.5ms (run_subprocess:173): running /home/ngallego/.local/pipx/shared/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+   463.0ms (run_subprocess:186): stdout: /home/ngallego/.local/pipx/shared/lib/python3.11/site-packages
+   463.2ms (run_subprocess:189): returncode: 0
+   463.8ms (run_subprocess:173): running /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/bin/python --version
+   466.3ms (run_subprocess:186): stdout: Python 3.11.6
+   466.4ms (run_subprocess:188): stderr:
+   466.5ms (run_subprocess:189): returncode: 0
+   466.7ms (package_name_from_spec:322): Determined package name: matplotlib
+   466.7ms (package_name_from_spec:323): Package name determined in 0.0s
+   466.9ms (_parsed_package_to_package_or_url:147): cleaned package spec: matplotlib
+   467.2ms (run_subprocess:173): running /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/bin/python -m pip install matplotlib
+ 13936.1ms (run_subprocess:189): returncode: 0
+ 13937.6ms (run_subprocess:173): running <fetch_info_in_venv commands>
+ 13991.1ms (run_subprocess:186): stdout: {"sys_path": ["/usr/lib/python311.zip", "/usr/lib/python3.11", "/usr/lib/python3.11/lib-dynload", "/home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/lib/python3.11/site-packages", "/home/ngallego/.local/pipx/shared/lib/python3.11/site-packages"], "python_version": "3.11.6", "environment": {"implementation_name": "cpython", "implementation_version": "3.11.6", "os_name": "posix", "platform_machine": "x86_64", "platform_release": "6.5.0-26-generic", "platform_system": "Linux", "platform_version": "#26-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar  5 21:19:28 UTC 2024", "python_full_version": "3.11.6", "platform_python_implementation": "CPython", "python_version": "3.11", "sys_platform": "linux"}}
+ 13991.2ms (run_subprocess:189): returncode: 0
+ 14108.8ms (get_venv_metadata_for_package:316): get_venv_metadata_for_package: 171ms
+ 14109.0ms (_parsed_package_to_package_or_url:147): cleaned package spec: matplotlib
+ 14109.4ms (run_subprocess:173): running /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+ 14130.6ms (run_subprocess:186): stdout: /home/ngallego/.local/pipx/.cache/ccfd34a3d52c958/lib/python3.11/site-packages
+ 14130.8ms (run_subprocess:189): returncode: 0
+ 14131.5ms (cli:866): PipxError: 'matplotlib' executable script not found in package 'matplotlib'.
+Available executable scripts:
+    
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/pipx/main.py", line 863, in cli
+    return run_pipx_command(parsed_pipx_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/pipx/main.py", line 200, in run_pipx_command
+    commands.run(
+  File "/usr/lib/python3/dist-packages/pipx/commands/run.py", line 107, in run
+    _download_and_run(
+  File "/usr/lib/python3/dist-packages/pipx/commands/run.py", line 169, in _download_and_run
+    raise PipxError(
+pipx.util.PipxError: 'matplotlib' executable script not found in package 'matplotlib'.
+Available executable scripts:
+    
+ 14135.0ms (cli:874): pipx finished.

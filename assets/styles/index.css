@@ -1,0 +1,158 @@
+/* Hero Section Styles */
+#hero {
+	max-width: 800px;
+	width: 90%;
+	margin: 150px auto;
+	position: relative;
+	z-index: 2;
+	/* Ensure the hero section is above the particles */
+	line-height: 2em;
+	font-size: 18px;
+	text-align: left;
+}
+.intro-header {
+	font-size: 2.8em;
+	margin-bottom: 10px;
+	color: #000;
+	display: inline-block;
+	letter-spacing: 10px;
+	line-height: 1.7em;
+}
+.container {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+/* Rotating Text Animation */
+.rotating-text {
+	position: absolute;
+	opacity: 0;
+}
+.rotating-text:nth-of-type(1) {
+	animation: rotate 1.5s 1s forwards;
+}
+.rotating-text:nth-of-type(2) {
+	animation: rotate 1.25s 2.75s forwards;
+}
+.rotating-text:nth-of-type(3) {
+	animation: rotate-last 2.5s 4.25s forwards;
+}
+
+/* Fancy Decoration */
+.fancy {
+	position: relative;
+	white-space: nowrap;
+}
+.fancy:after {
+	z-index: -2;
+	--deco-height: 0.3125em;
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: calc(var(--deco-height) * -0.625);
+	height: var(--deco-height);
+	background-image: url("data:image/svg+xml,%3Csvg width='100' height='64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23a)'%3E%3Cpath d='M-17 30.5C-1 22 72-4 54 13 37.9 28.2-2.5 57.5 16 55.5s72-29 104-40' stroke='%234F6F52' stroke-width='10'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='a'%3E%3Cpath fill='%23fff' d='M0 0h100v64H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");
+	width: 0;
+	background-size: auto 100%;
+	animation: toRight 3s 4.5s forwards;
+}
+@keyframes toRight {
+	to {
+		width: 100%;
+	}
+}
+
+/* Rotate Animation */
+@keyframes rotate {
+	0% {
+		opacity: 0;
+		transform: translate3d(0, 50px, 0);
+	}
+	20%, 80% {
+		opacity: 1;
+		transform: translate3d(0, 0, 0);
+	}
+	100% {
+		opacity: 0;
+		transform: translate3d(0, -25px, 0);
+	}
+}
+
+/* Rotate Last Animation */
+@keyframes rotate-last {
+	0% {
+		opacity: 0;
+		transform: translate3d(0, 50px, 0);
+	}
+	50%, 100% {
+		opacity: 1;
+		transform: translate3d(0, 0, 0);
+	}
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 697px) {
+	.intro-header {
+		font-size: 2.5rem;
+	}
+	.logo {
+		height: 4.5rem;
+		left: 40px;
+		top: 2vh;
+	}
+	#hero, li, a, a::after {
+		font-size: 16px;
+	}
+	#hero {
+		width: 80%;
+	}
+}
+@media (max-width: 460px) {
+	.intro-header {
+		font-size: 2.2rem;
+	}
+	.logo {
+		left: 55px;
+	}
+	#hero, li, a, a::after {
+		font-size: 15px;
+	}
+	#hero {
+		width: 85%;
+	}
+}
+@media (max-width: 697px) {
+	.intro-header {
+		font-size: 2.2rem;
+	}
+	#hero, li, a, a::after {
+		font-size: 14.5px;
+	}
+	#hero {
+		width: 82.5%;
+		z-index: 1;
+	}
+}
+@media (max-width: 500px) {
+	.container {
+		position: relative;
+		margin-left: 35px;
+	}
+}
+@media (max-width: 420px) {
+	.intro-header {
+		font-size: 2rem;
+	}
+	#hero, li, a, a::after {
+		font-size: 13px;
+	}
+	#hero {
+		width: 82.5%;
+	}
+	body {
+		overflow: hidden;
+		/* Prevent scrolling when menu is open */
+	}
+}

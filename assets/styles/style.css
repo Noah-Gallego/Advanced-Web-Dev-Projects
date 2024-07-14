@@ -1,0 +1,242 @@
+/* Fonts */
+@font-face {
+	font-family: 'Mulish';
+	src: url("../fonts/Mulish-VariableFont_wght.ttf");
+}
+
+/* Global Styles */
+* {
+	font-family: 'Mulish', sans-serif;
+}
+html, body {
+	max-width: 100%;
+	overflow-x: hidden;
+	font-size: 1rem;
+}
+h1 {
+	font-weight: 600;
+}
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	/* Adjusting to a column layout */
+	background-color: #ECE3CE;
+	position: relative;
+	opacity: 0;
+	animation: fadeInAnimation 1.5s ease forwards;
+}
+canvas {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+	/* Allow interactions with elements behind the canvas */
+}
+
+/* Header Styles */
+.logo {
+	position: relative;
+	height: 5rem;
+	width: auto;
+	top: 2.5vh;
+	left: 7vw;
+}
+header {
+	background-color: transparent;
+	padding: 10px 20px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 2;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100vw;
+}
+
+/* Arrow Bounce Animation */
+.fa-arrow-right {
+	color: #4F6F52;
+	margin-left: 10px;
+	display: inline-block;
+	animation: bounce 2s infinite;
+}
+
+/* Navigation Styles */
+nav {
+	width: 100%;
+}
+nav ul {
+	list-style: none;
+	display: flex;
+	margin-top: 5vh;
+	color: #739072;
+}
+.nav-links {
+	margin: 0 4vw;
+}
+.pir-link {
+	color: #181818;
+	font-weight: bold;
+}
+
+/* Link Styling */
+a {
+	position: relative;
+	text-decoration: none;
+	transition: color 0.3s ease;
+	color: #739072;
+	font-size: 18px;
+	cursor: pointer;
+}
+a::after {
+	content: "";
+	position: absolute;
+	bottom: -3px;
+	left: 50%;
+	width: 0;
+	height: 2px;
+	background-color: #3A4D39;
+	transition: width 0.3s ease, left 0.3s ease;
+}
+a:hover {
+	color: #3A4D39;
+	font-size: 19px;
+	transition: 0.3s;
+}
+a:hover::after {
+	width: 100%;
+	left: 0;
+}
+#menu-toggle {
+	display: none;
+}
+/* Bounce Animation */
+@keyframes bounce {
+	0%, 20%, 50%, 80%, 100% {
+		transform: translateX(0);
+	}
+	40% {
+		transform: translateX(20px);
+	}
+	60% {
+		transform: translateX(10px);
+	}
+}
+@keyframes fadeInAnimation {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+/* NAV MEDIA QUERIES */
+@media (max-width: 697px) {
+	/* Hide checkbox */
+	#menu-toggle {
+		display: none;
+	}
+	/* Hamburger Menu Label Styling */
+	.hamburger-menu {
+		display: block;
+		cursor: pointer;
+		width: 30px;
+		height: 20px;
+		position: absolute;
+		top: 45px;
+		right: 10vw;
+	}
+	/* Line styles for hamburger and X */
+	.line {
+		display: block;
+		position: absolute;
+		height: 3px;
+		border-radius: 50px;
+		width: 100%;
+		background-color: #000;
+		transition: transform 0.3s ease;
+	}
+	/* Line positioning for hamburger icon */
+	.line:nth-child(1) {
+		top: 0;
+	}
+	.line:nth-child(2) {
+		top: 50%;
+		transform: translateY(-50%);
+	}
+	.line:nth-child(3) {
+		bottom: 0;
+	}
+	/* Rotate and change lines to form X when checkbox is checked */
+	#menu-toggle:checked + .hamburger-menu .line:nth-child(1) {
+		transform: translateY(8px) rotate(45deg);
+	}
+	#menu-toggle:checked + .hamburger-menu .line:nth-child(2) {
+		opacity: 0;
+	}
+	#menu-toggle:checked + .hamburger-menu .line:nth-child(3) {
+		transform: translateY(-8px) rotate(-45deg);
+	}
+	/* Hide the regular navigation by default */
+	nav {
+		display: none;
+	}
+	/* Show navigation when checkbox is checked */
+	#menu-toggle:checked ~ nav {
+		display: flex;
+	}
+	/* Overlay styles */
+	.overlay {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100vw;
+		height: 100vh;
+		background-color: #fff5dff5;
+		z-index: 2;
+		/* Ensure the overlay is above other content */
+		display: none;
+	}
+	/* Show the overlay when menu is checked */
+	#menu-toggle:checked ~ .overlay {
+		display: block;
+	}
+	/* Adjusted z-index */
+	.line,.nav-links {
+		z-index: 4;
+	}
+	/* Adjusted styles for mobile view */
+	li a {
+		transform: translateY(50px);
+		font-size: 4rem;
+		line-height: 5.5rem;
+	}
+	a:hover {
+		font-size: 15px;
+	}
+	li a:hover {
+		font-size: 4.5rem;
+	}
+	/* Flex direction for mobile nav */
+	nav ul {
+		display: flex;
+		color: #739072;
+		flex-direction: column;
+	}
+	.container {
+		margin-top: 25vh;
+	}
+}
+/* Relative positioning for navigation container */
+@media (max-width: 500px) {
+	.container {
+		position: relative;
+		right: 70px;
+	}
+}

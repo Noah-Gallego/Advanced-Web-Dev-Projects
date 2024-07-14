@@ -1,0 +1,1137 @@
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/home/ngallego/lab11/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+ReferenceError: hash is not defined
+    at exports.create (/home/ngallego/lab11/calls/user.js:49:89)
+    at /home/ngallego/lab11/server.js:24:24
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+TypeError: Cannot read properties of undefined (reading 'then')
+    at /home/ngallego/lab11/server.js:24:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+SQLITE_ERROR: no such table: users
+TypeError: Cannot read properties of undefined (reading 'then')
+    at /home/ngallego/lab11/server.js:24:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+SQLITE_ERROR: no such table: users
+TypeError: Cannot read properties of undefined (reading 'then')
+    at /home/ngallego/lab11/server.js:24:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+SQLITE_ERROR: no such table: users
+TypeError: Cannot read properties of undefined (reading 'then')
+    at /home/ngallego/lab11/server.js:24:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/ngallego/lab11/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ngallego/lab11/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/ngallego/lab11/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ngallego/lab11/node_modules/express/lib/router/index.js:280:10)
+    at /home/ngallego/lab11/utils.js:51:5
+    at Layer.handle [as handle_request] (/home/ngallego/lab11/node_modules/express/lib/router/layer.js:95:5)
+SQLITE_ERROR: no such table: users
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+/home/ngallego/lab11/calls/user.js:38
+              password: params.password });
+              ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ngallego/lab11/server.js:2:14)
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such table: users] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}

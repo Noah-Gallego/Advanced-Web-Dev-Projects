@@ -1,0 +1,656 @@
+2024-04-24T04:54:44: PM2 log: Stopping app:server id:1
+2024-04-24T04:54:44: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T04:54:44: PM2 log: pid=1891 msg=process killed
+2024-04-24T04:54:51: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T04:54:51: PM2 log: App [server:1] online
+2024-04-24T04:59:21: PM2 log: Stopping app:server id:1
+2024-04-24T04:59:21: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T04:59:21: PM2 log: pid=2215 msg=process killed
+2024-04-24T05:01:17: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:01:17: PM2 log: App [server:1] online
+2024-04-24T05:02:28: PM2 log: Stopping app:server id:1
+2024-04-24T05:02:28: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:02:28: PM2 log: pid=2285 msg=process killed
+2024-04-24T05:08:27: PM2 log: Stopping app:server id:0
+2024-04-24T05:08:27: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T05:08:27: PM2 log: pid=1890 msg=process killed
+2024-04-24T05:08:27: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:08:27: PM2 log: App [server:0] online
+2024-04-24T05:08:27: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:08:27: PM2 log: App [server:1] online
+2024-04-24T05:11:10: PM2 log: Stopping app:server id:1
+2024-04-24T05:11:10: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:11:10: PM2 log: pid=2363 msg=process killed
+2024-04-24T05:16:25: PM2 log: Stopping app:server id:0
+2024-04-24T05:16:25: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T05:16:25: PM2 log: pid=2362 msg=process killed
+2024-04-24T05:16:25: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:16:25: PM2 log: App [server:0] online
+2024-04-24T05:16:25: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:16:25: PM2 log: App [server:1] online
+2024-04-24T05:20:47: PM2 log: Stopping app:server id:1
+2024-04-24T05:20:47: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:20:47: PM2 log: pid=2522 msg=process killed
+2024-04-24T05:20:51: PM2 log: Stopping app:server id:0
+2024-04-24T05:20:51: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T05:20:51: PM2 log: pid=2521 msg=process killed
+2024-04-24T05:20:51: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:20:51: PM2 log: App [server:0] online
+2024-04-24T05:20:51: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:52: PM2 log: App [server:1] online
+2024-04-24T05:20:53: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:53: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:53: PM2 log: App [server:1] online
+2024-04-24T05:20:54: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:54: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:54: PM2 log: App [server:1] online
+2024-04-24T05:20:55: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:55: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:55: PM2 log: App [server:1] online
+2024-04-24T05:20:56: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:56: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:56: PM2 log: App [server:1] online
+2024-04-24T05:20:56: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:56: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:56: PM2 log: App [server:1] online
+2024-04-24T05:20:57: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:57: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:57: PM2 log: App [server:1] online
+2024-04-24T05:20:58: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:58: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:58: PM2 log: App [server:1] online
+2024-04-24T05:20:58: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:58: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:58: PM2 log: App [server:1] online
+2024-04-24T05:20:59: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:20:59: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:20:59: PM2 log: App [server:1] online
+2024-04-24T05:21:00: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:00: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:00: PM2 log: App [server:1] online
+2024-04-24T05:21:01: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:01: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:01: PM2 log: App [server:1] online
+2024-04-24T05:21:02: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:02: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:02: PM2 log: App [server:1] online
+2024-04-24T05:21:03: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:03: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:03: PM2 log: App [server:1] online
+2024-04-24T05:21:04: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:04: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:04: PM2 log: App [server:1] online
+2024-04-24T05:21:05: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:05: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:05: PM2 log: App [server:1] online
+2024-04-24T05:21:06: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:06: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:06: PM2 log: App [server:1] online
+2024-04-24T05:21:07: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:07: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:07: PM2 log: App [server:1] online
+2024-04-24T05:21:08: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:08: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:08: PM2 log: App [server:1] online
+2024-04-24T05:21:08: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:08: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:08: PM2 log: App [server:1] online
+2024-04-24T05:21:09: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:09: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:09: PM2 log: App [server:1] online
+2024-04-24T05:21:10: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:10: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:10: PM2 log: App [server:1] online
+2024-04-24T05:21:11: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:11: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:11: PM2 log: App [server:1] online
+2024-04-24T05:21:11: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:11: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:11: PM2 log: App [server:1] online
+2024-04-24T05:21:12: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:12: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:12: PM2 log: App [server:1] online
+2024-04-24T05:21:13: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T05:21:13: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:21:13: PM2 log: App [server:1] online
+2024-04-24T05:21:59: PM2 log: Stopping app:server id:1
+2024-04-24T05:21:59: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:21:59: PM2 log: pid=2934 msg=process killed
+2024-04-24T05:22:03: PM2 log: Stopping app:server id:0
+2024-04-24T05:22:03: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T05:22:03: PM2 log: pid=2636 msg=process killed
+2024-04-24T05:22:03: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:22:03: PM2 log: App [server:0] online
+2024-04-24T05:22:03: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:22:03: PM2 log: App [server:1] online
+2024-04-24T05:24:15: PM2 log: App [server:0] exited with code [0] via signal [SIGTERM]
+2024-04-24T05:24:15: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:24:15: PM2 log: App [server:0] online
+2024-04-24T05:25:19: PM2 log: Stopping app:server id:1
+2024-04-24T05:25:19: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:25:19: PM2 log: pid=2969 msg=process killed
+2024-04-24T05:26:25: PM2 log: Stopping app:server id:0
+2024-04-24T05:26:25: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T05:26:25: PM2 log: pid=3005 msg=process killed
+2024-04-24T05:26:39: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:26:39: PM2 log: App [server:0] online
+2024-04-24T05:26:39: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:26:39: PM2 log: App [server:1] online
+2024-04-24T05:26:46: PM2 log: Stopping app:server id:0
+2024-04-24T05:26:46: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T05:26:46: PM2 log: pid=3081 msg=process killed
+2024-04-24T05:26:46: PM2 log: Stopping app:server id:1
+2024-04-24T05:26:46: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:26:46: PM2 log: pid=3082 msg=process killed
+2024-04-24T05:26:53: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:26:53: PM2 log: App [server:1] online
+2024-04-24T05:29:53: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T05:29:53: PM2 log: App [server:0] online
+2024-04-24T05:29:53: PM2 log: Stopping app:server id:1
+2024-04-24T05:29:53: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T05:29:53: PM2 log: pid=3119 msg=process killed
+2024-04-24T05:29:53: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T05:29:53: PM2 log: App [server:1] online
+2024-04-24T06:40:34: PM2 log: Stopping app:server id:1
+2024-04-24T06:40:34: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:40:34: PM2 log: pid=3179 msg=process killed
+2024-04-24T06:40:41: PM2 log: Stopping app:server id:0
+2024-04-24T06:40:41: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T06:40:41: PM2 log: pid=3171 msg=process killed
+2024-04-24T06:40:41: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T06:40:41: PM2 log: App [server:0] online
+2024-04-24T06:40:41: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:40:41: PM2 log: App [server:1] online
+2024-04-24T06:41:52: PM2 log: Stopping app:server id:1
+2024-04-24T06:41:52: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:41:52: PM2 log: pid=3765 msg=process killed
+2024-04-24T06:41:52: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:41:52: PM2 log: App [server:1] online
+2024-04-24T06:43:56: PM2 log: Stopping app:server id:1
+2024-04-24T06:43:56: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:43:56: PM2 log: pid=3806 msg=process killed
+2024-04-24T06:43:56: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:43:56: PM2 log: App [server:1] online
+2024-04-24T06:44:44: PM2 log: Stopping app:server id:1
+2024-04-24T06:44:44: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:44:44: PM2 log: pid=3908 msg=process killed
+2024-04-24T06:44:44: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:44:44: PM2 log: App [server:1] online
+2024-04-24T06:46:19: PM2 log: Stopping app:server id:1
+2024-04-24T06:46:19: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:46:19: PM2 log: pid=3927 msg=process killed
+2024-04-24T06:46:19: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:46:19: PM2 log: App [server:1] online
+2024-04-24T06:49:00: PM2 log: Stopping app:server id:1
+2024-04-24T06:49:00: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:49:00: PM2 log: pid=3947 msg=process killed
+2024-04-24T06:49:00: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:49:00: PM2 log: App [server:1] online
+2024-04-24T06:49:19: PM2 log: Stopping app:server id:1
+2024-04-24T06:49:19: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:49:19: PM2 log: pid=3968 msg=process killed
+2024-04-24T06:49:19: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:49:19: PM2 log: App [server:1] online
+2024-04-24T06:49:36: PM2 log: Stopping app:server id:1
+2024-04-24T06:49:36: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:49:36: PM2 log: pid=3987 msg=process killed
+2024-04-24T06:49:36: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:49:36: PM2 log: App [server:1] online
+2024-04-24T06:51:07: PM2 log: Stopping app:server id:1
+2024-04-24T06:51:07: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:51:07: PM2 log: pid=4006 msg=process killed
+2024-04-24T06:51:07: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:51:07: PM2 log: App [server:1] online
+2024-04-24T06:51:09: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:51:09: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:51:09: PM2 log: App [server:1] online
+2024-04-24T06:51:13: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:51:13: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:51:13: PM2 log: App [server:1] online
+2024-04-24T06:51:20: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:51:20: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:51:20: PM2 log: App [server:1] online
+2024-04-24T06:52:05: PM2 log: Stopping app:server id:1
+2024-04-24T06:52:05: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:52:06: PM2 log: pid=4058 msg=process killed
+2024-04-24T06:52:06: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:06: PM2 log: App [server:1] online
+2024-04-24T06:52:08: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:52:08: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:08: PM2 log: App [server:1] online
+2024-04-24T06:52:09: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:52:09: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:09: PM2 log: App [server:1] online
+2024-04-24T06:52:17: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:52:17: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:17: PM2 log: App [server:1] online
+2024-04-24T06:52:49: PM2 log: Stopping app:server id:1
+2024-04-24T06:52:49: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:52:49: PM2 log: pid=4110 msg=process killed
+2024-04-24T06:52:49: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:49: PM2 log: App [server:1] online
+2024-04-24T06:52:57: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:52:57: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:57: PM2 log: App [server:1] online
+2024-04-24T06:52:59: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:52:59: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:52:59: PM2 log: App [server:1] online
+2024-04-24T06:53:00: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:53:00: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:53:00: PM2 log: App [server:1] online
+2024-04-24T06:53:03: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:53:03: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:53:03: PM2 log: App [server:1] online
+2024-04-24T06:53:05: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:53:05: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:53:05: PM2 log: App [server:1] online
+2024-04-24T06:53:06: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:53:06: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:53:06: PM2 log: App [server:1] online
+2024-04-24T06:53:08: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:53:08: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:53:08: PM2 log: App [server:1] online
+2024-04-24T06:53:37: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:53:37: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:53:37: PM2 log: App [server:1] online
+2024-04-24T06:53:42: PM2 log: Stopping app:server id:0
+2024-04-24T06:53:42: PM2 log: Stopping app:server id:1
+2024-04-24T06:53:42: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T06:53:42: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:53:42: PM2 log: pid=3764 msg=process killed
+2024-04-24T06:53:43: PM2 log: pid=4222 msg=process killed
+2024-04-24T06:53:43: PM2 log: PM2 successfully stopped
+2024-04-24T06:54:21: PM2 log: ===============================================================================
+2024-04-24T06:54:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-04-24T06:54:21: PM2 log: Time                 : Wed Apr 24 2024 06:54:21 GMT+0000 (Coordinated Universal Time)
+2024-04-24T06:54:21: PM2 log: PM2 version          : 5.3.1
+2024-04-24T06:54:21: PM2 log: Node.js version      : 18.13.0
+2024-04-24T06:54:21: PM2 log: Current arch         : x64
+2024-04-24T06:54:21: PM2 log: PM2 home             : /home/ngallego/.pm2
+2024-04-24T06:54:21: PM2 log: PM2 PID file         : /home/ngallego/.pm2/pm2.pid
+2024-04-24T06:54:21: PM2 log: RPC socket file      : /home/ngallego/.pm2/rpc.sock
+2024-04-24T06:54:21: PM2 log: BUS socket file      : /home/ngallego/.pm2/pub.sock
+2024-04-24T06:54:21: PM2 log: Application log path : /home/ngallego/.pm2/logs
+2024-04-24T06:54:21: PM2 log: Worker Interval      : 30000
+2024-04-24T06:54:21: PM2 log: Process dump file    : /home/ngallego/.pm2/dump.pm2
+2024-04-24T06:54:21: PM2 log: Concurrent actions   : 2
+2024-04-24T06:54:21: PM2 log: SIGTERM timeout      : 1600
+2024-04-24T06:54:21: PM2 log: ===============================================================================
+2024-04-24T06:54:21: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T06:54:21: PM2 log: App [server:0] online
+2024-04-24T06:54:46: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:54:46: PM2 log: App [server:1] online
+2024-04-24T06:54:49: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:54:49: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:54:49: PM2 log: App [server:1] online
+2024-04-24T06:54:51: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:54:51: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:54:51: PM2 log: App [server:1] online
+2024-04-24T06:54:52: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:54:52: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:54:52: PM2 log: App [server:1] online
+2024-04-24T06:55:17: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:55:17: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:55:17: PM2 log: App [server:1] online
+2024-04-24T06:55:50: PM2 log: Stopping app:server id:1
+2024-04-24T06:55:50: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:55:50: PM2 log: pid=1246 msg=process killed
+2024-04-24T06:55:50: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:55:50: PM2 log: App [server:1] online
+2024-04-24T06:56:24: PM2 log: Stopping app:server id:1
+2024-04-24T06:56:24: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:56:25: PM2 log: pid=1272 msg=process killed
+2024-04-24T06:56:25: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:56:25: PM2 log: App [server:1] online
+2024-04-24T06:56:28: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:56:28: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:56:28: PM2 log: App [server:1] online
+2024-04-24T06:57:13: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T06:57:13: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:57:13: PM2 log: App [server:1] online
+2024-04-24T06:57:17: PM2 log: Stopping app:server id:1
+2024-04-24T06:57:17: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:57:17: PM2 log: pid=1313 msg=process killed
+2024-04-24T06:57:17: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T06:57:17: PM2 log: App [server:1] online
+2024-04-24T06:58:35: PM2 log: Stopping app:server id:0
+2024-04-24T06:58:35: PM2 log: Stopping app:server id:1
+2024-04-24T06:58:35: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T06:58:35: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T06:58:35: PM2 log: pid=1112 msg=process killed
+2024-04-24T06:58:35: PM2 log: pid=1332 msg=process killed
+2024-04-24T06:58:35: PM2 log: PM2 successfully stopped
+2024-04-24T06:59:10: PM2 log: ===============================================================================
+2024-04-24T06:59:10: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-04-24T06:59:10: PM2 log: Time                 : Wed Apr 24 2024 06:59:10 GMT+0000 (Coordinated Universal Time)
+2024-04-24T06:59:10: PM2 log: PM2 version          : 5.3.1
+2024-04-24T06:59:10: PM2 log: Node.js version      : 18.13.0
+2024-04-24T06:59:10: PM2 log: Current arch         : x64
+2024-04-24T06:59:10: PM2 log: PM2 home             : /home/ngallego/.pm2
+2024-04-24T06:59:10: PM2 log: PM2 PID file         : /home/ngallego/.pm2/pm2.pid
+2024-04-24T06:59:10: PM2 log: RPC socket file      : /home/ngallego/.pm2/rpc.sock
+2024-04-24T06:59:10: PM2 log: BUS socket file      : /home/ngallego/.pm2/pub.sock
+2024-04-24T06:59:10: PM2 log: Application log path : /home/ngallego/.pm2/logs
+2024-04-24T06:59:10: PM2 log: Worker Interval      : 30000
+2024-04-24T06:59:10: PM2 log: Process dump file    : /home/ngallego/.pm2/dump.pm2
+2024-04-24T06:59:10: PM2 log: Concurrent actions   : 2
+2024-04-24T06:59:10: PM2 log: SIGTERM timeout      : 1600
+2024-04-24T06:59:10: PM2 log: ===============================================================================
+2024-04-24T06:59:10: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T06:59:10: PM2 log: App [server:0] online
+2024-04-24T07:01:50: PM2 log: Stopping app:server id:0
+2024-04-24T07:01:50: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2024-04-24T07:01:50: PM2 log: pid=1031 msg=process killed
+2024-04-24T07:01:50: PM2 log: App [server:0] starting in -fork mode-
+2024-04-24T07:01:50: PM2 log: App [server:0] online
+2024-04-24T07:02:13: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:02:13: PM2 log: App [server:1] online
+2024-04-24T07:10:21: PM2 log: Stopping app:server id:1
+2024-04-24T07:10:22: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:10:22: PM2 log: pid=1202 msg=process killed
+2024-04-24T07:10:22: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:10:22: PM2 log: App [server:1] online
+2024-04-24T07:10:26: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:10:26: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:10:26: PM2 log: App [server:1] online
+2024-04-24T07:10:27: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:10:27: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:10:27: PM2 log: App [server:1] online
+2024-04-24T07:10:56: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:10:56: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:10:56: PM2 log: App [server:1] online
+2024-04-24T07:11:00: PM2 log: Stopping app:server id:1
+2024-04-24T07:11:00: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:11:00: PM2 log: pid=1283 msg=process killed
+2024-04-24T07:11:00: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:00: PM2 log: App [server:1] online
+2024-04-24T07:11:49: PM2 log: Stopping app:server id:1
+2024-04-24T07:11:49: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:11:49: PM2 log: pid=1302 msg=process killed
+2024-04-24T07:11:49: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:49: PM2 log: App [server:1] online
+2024-04-24T07:11:52: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:11:52: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:52: PM2 log: App [server:1] online
+2024-04-24T07:11:53: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:11:53: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:53: PM2 log: App [server:1] online
+2024-04-24T07:11:54: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:11:54: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:54: PM2 log: App [server:1] online
+2024-04-24T07:11:55: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:11:55: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:55: PM2 log: App [server:1] online
+2024-04-24T07:11:56: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:11:56: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:11:56: PM2 log: App [server:1] online
+2024-04-24T07:12:35: PM2 log: Stopping app:server id:1
+2024-04-24T07:12:35: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:12:35: PM2 log: pid=1376 msg=process killed
+2024-04-24T07:12:35: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:12:35: PM2 log: App [server:1] online
+2024-04-24T07:12:50: PM2 log: Stopping app:server id:1
+2024-04-24T07:12:50: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:12:50: PM2 log: pid=1395 msg=process killed
+2024-04-24T07:12:50: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:12:50: PM2 log: App [server:1] online
+2024-04-24T07:13:15: PM2 log: Stopping app:server id:1
+2024-04-24T07:13:15: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:13:15: PM2 log: pid=1414 msg=process killed
+2024-04-24T07:13:15: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:13:15: PM2 log: App [server:1] online
+2024-04-24T07:13:35: PM2 log: Stopping app:server id:1
+2024-04-24T07:13:35: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:13:35: PM2 log: pid=1433 msg=process killed
+2024-04-24T07:13:35: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:13:35: PM2 log: App [server:1] online
+2024-04-24T07:13:50: PM2 log: Stopping app:server id:1
+2024-04-24T07:13:50: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:13:50: PM2 log: pid=1452 msg=process killed
+2024-04-24T07:13:50: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:13:50: PM2 log: App [server:1] online
+2024-04-24T07:15:19: PM2 log: Stopping app:server id:1
+2024-04-24T07:15:19: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:15:19: PM2 log: pid=1475 msg=process killed
+2024-04-24T07:15:19: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:19: PM2 log: App [server:1] online
+2024-04-24T07:15:22: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:22: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:22: PM2 log: App [server:1] online
+2024-04-24T07:15:48: PM2 log: Stopping app:server id:1
+2024-04-24T07:15:48: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:15:48: PM2 log: pid=1505 msg=process killed
+2024-04-24T07:15:48: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:48: PM2 log: App [server:1] online
+2024-04-24T07:15:49: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:49: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:49: PM2 log: App [server:1] online
+2024-04-24T07:15:49: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:49: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:49: PM2 log: App [server:1] online
+2024-04-24T07:15:50: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:50: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:50: PM2 log: App [server:1] online
+2024-04-24T07:15:50: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:50: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:50: PM2 log: App [server:1] online
+2024-04-24T07:15:51: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:51: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:51: PM2 log: App [server:1] online
+2024-04-24T07:15:51: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:51: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:51: PM2 log: App [server:1] online
+2024-04-24T07:15:52: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:52: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:52: PM2 log: App [server:1] online
+2024-04-24T07:15:52: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:52: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:52: PM2 log: App [server:1] online
+2024-04-24T07:15:53: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:53: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:53: PM2 log: App [server:1] online
+2024-04-24T07:15:53: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:53: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:53: PM2 log: App [server:1] online
+2024-04-24T07:15:54: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:54: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:54: PM2 log: App [server:1] online
+2024-04-24T07:15:54: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:54: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:54: PM2 log: App [server:1] online
+2024-04-24T07:15:54: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:54: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:54: PM2 log: App [server:1] online
+2024-04-24T07:15:55: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:55: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:55: PM2 log: App [server:1] online
+2024-04-24T07:15:55: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:55: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:15:55: PM2 log: App [server:1] online
+2024-04-24T07:15:56: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:15:56: PM2 log: Script /home/ngallego/lab11/server.js had too many unstable restarts (16). Stopped. "errored"
+2024-04-24T07:16:05: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:16:05: PM2 log: App [server:1] online
+2024-04-24T07:16:07: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:16:07: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:16:07: PM2 log: App [server:1] online
+2024-04-24T07:18:21: PM2 log: Stopping app:server id:1
+2024-04-24T07:18:21: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:18:21: PM2 log: pid=1718 msg=process killed
+2024-04-24T07:18:21: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:18:21: PM2 log: App [server:1] online
+2024-04-24T07:18:24: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:18:24: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:18:24: PM2 log: App [server:1] online
+2024-04-24T07:19:24: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:19:24: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:19:24: PM2 log: App [server:1] online
+2024-04-24T07:19:27: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:19:27: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:19:27: PM2 log: App [server:1] online
+2024-04-24T07:21:10: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:21:10: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:21:10: PM2 log: App [server:1] online
+2024-04-24T07:21:12: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:21:12: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:21:12: PM2 log: App [server:1] online
+2024-04-24T07:22:07: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:22:07: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:22:07: PM2 log: App [server:1] online
+2024-04-24T07:22:11: PM2 log: Stopping app:server id:1
+2024-04-24T07:22:11: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:22:11: PM2 log: pid=1811 msg=process killed
+2024-04-24T07:22:11: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:22:11: PM2 log: App [server:1] online
+2024-04-24T07:22:13: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:22:13: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:22:13: PM2 log: App [server:1] online
+2024-04-24T07:22:30: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:22:30: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:22:30: PM2 log: App [server:1] online
+2024-04-24T07:22:33: PM2 log: Stopping app:server id:1
+2024-04-24T07:22:33: PM2 log: App [server:1] exited with code [0] via signal [SIGINT]
+2024-04-24T07:22:33: PM2 log: pid=1852 msg=process killed
+2024-04-24T07:22:33: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:22:33: PM2 log: App [server:1] online
+2024-04-24T07:22:35: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-24T07:22:35: PM2 log: App [server:1] starting in -fork mode-
+2024-04-24T07:22:35: PM2 log: App [server:1] online
+2024-04-25T07:40:04: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-25T07:40:04: PM2 log: App [server:1] starting in -fork mode-
+2024-04-25T07:40:04: PM2 log: App [server:1] online
+2024-04-25T07:40:15: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-25T07:40:15: PM2 log: App [server:1] starting in -fork mode-
+2024-04-25T07:40:15: PM2 log: App [server:1] online
+2024-04-25T07:40:23: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-25T07:40:23: PM2 log: App [server:1] starting in -fork mode-
+2024-04-25T07:40:23: PM2 log: App [server:1] online
+2024-04-30T01:16:50: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-30T01:16:50: PM2 log: App [server:1] starting in -fork mode-
+2024-04-30T01:16:50: PM2 log: App [server:1] online
+2024-04-30T21:51:32: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-04-30T21:51:32: PM2 log: App [server:1] starting in -fork mode-
+2024-04-30T21:51:32: PM2 log: App [server:1] online
+2024-05-02T22:37:51: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:37:51: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:37:51: PM2 log: App [server:1] online
+2024-05-02T22:38:03: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:38:03: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:38:03: PM2 log: App [server:1] online
+2024-05-02T22:38:05: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:38:05: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:38:05: PM2 log: App [server:1] online
+2024-05-02T22:38:06: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:38:06: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:38:06: PM2 log: App [server:1] online
+2024-05-02T22:38:08: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:38:08: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:38:08: PM2 log: App [server:1] online
+2024-05-02T22:38:10: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:38:10: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:38:10: PM2 log: App [server:1] online
+2024-05-02T22:38:11: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2024-05-02T22:38:11: PM2 log: App [server:1] starting in -fork mode-
+2024-05-02T22:38:11: PM2 log: App [server:1] online
+2024-05-25T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-25T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-05-26T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-26T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-05-27T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-27T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-05-28T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-28T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-05-29T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-29T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-05-30T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-30T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-05-31T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-05-31T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-01T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-01T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-02T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-02T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-03T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-03T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-04T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-04T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-05T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-05T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-06T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-06T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-07T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-07T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-08T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-08T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-09T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-09T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-10T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-10T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-11T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-11T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-12T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-12T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-13T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-13T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-14T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-14T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-15T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-15T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-16T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-16T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-17T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-17T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-18T06:59:26: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-18T06:59:26: PM2 log: [PM2] Upgrade to version 5.4.0
+2024-06-19T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-19T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-20T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-20T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-21T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-21T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-22T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-22T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-23T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-23T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-24T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-24T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-25T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-25T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-26T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-26T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-27T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-27T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-28T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-28T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-29T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-29T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-06-30T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-06-30T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-01T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-01T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-02T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-02T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-03T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-03T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-04T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-04T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-05T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-05T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-06T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-06T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-07T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-07T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-08T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-08T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.1
+2024-07-09T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-09T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.2
+2024-07-10T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-10T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.2
+2024-07-11T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-11T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.2
+2024-07-12T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-12T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.2
+2024-07-13T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-13T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.2
+2024-07-14T06:59:11: PM2 log: [PM2] This PM2 is not UP TO DATE
+2024-07-14T06:59:11: PM2 log: [PM2] Upgrade to version 5.4.2

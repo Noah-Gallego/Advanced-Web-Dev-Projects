@@ -1,0 +1,134 @@
+/* Global Box Sizing */
+* {
+	box-sizing: border-box;
+}
+
+/* Headings */
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 1.2em;
+}
+
+/* Paragraphs and List Items */
+p,li {
+	font-size: 1rem;
+}
+
+/* Hero Styling */
+#hero {
+	max-width: 90%;
+	width: 80%;
+	margin: 150px auto;
+	position: relative;
+	z-index: 1;
+	line-height: 2em;
+	font-size: 18px;
+}
+
+/* Header Container */
+.container {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+/* Grid container */
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(4, auto);
+	grid-gap: 1vw;
+	position: relative;
+}
+
+/* Grid items */
+.grid-item {
+	border: 2px solid #739072;
+	padding: 25px;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	line-height: 1.2rem;
+}
+
+/* Grid item with background image */
+.grid-item:nth-child(1) {
+	position: relative;
+	overflow: hidden;
+}
+
+.grid-item:nth-child(5) {
+	color: #ECE3CE;
+}
+
+/* Background image styling */
+.grid-item::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+.grid-item:nth-child(1)::before {
+	background-image: url("/assets/images/CFA_App.png");
+	filter: blur(5px) grayscale(50%);
+}
+.grid-item:nth-child(2)::before {
+	background-image: url("/assets/images/History_App.png");
+	filter: blur(5px);
+}
+.grid-item:nth-child(3)::before {
+	background-image: url("/assets/images/Weather_App.png");
+	filter: blur(15px) brightness(105%);
+}
+.grid-item:nth-child(4)::before {
+	background-image: url("/assets/images/Natours_App.png");
+	filter: blur(3px);
+}
+.grid-item:nth-child(5)::before {
+	background-image: url("/assets/images/JustDroneIt_App.png");
+	filter: blur(10px);
+}
+.grid-item:nth-child(6)::before {
+	background-image: linear-gradient(to right bottom, #406a3d, #739072);
+	filter: blur(5px) brightness(125%);
+}
+
+/* Hover effect */
+.grid-item:hover::before {
+	transform: scale(1.05);
+}
+
+/* Content within the grid item */
+.grid-item > * {
+	position: relative;
+	z-index: 1;
+}
+
+/* Responsive adjustments for smaller screens */
+@media screen and (max-width: 768px) {
+	.grid-container {
+		grid-template-columns: 1fr;
+		/* Single column on smaller screens */
+		grid-template-rows: repeat(8, auto);
+		/* 8 rows */
+	}
+	.pro3 {
+		color: #ECE3CE;
+	}
+	.pro6 {
+		margin-bottom: 40px;
+	}
+}
+@media (max-width: 697px) {
+	html, body {
+		max-width: 100%;
+		overflow-x: hidden;
+	}
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link type="text/css" rel="stylesheet" href="./style.css">
+        <meta charset="utf-8">
+        <title>API Calls</title>
+    </head>
+    <body>
+        <div id="container">
+            <!-- Connect this section to the 'hello' API call -->
+            <div class = "box">
+                <div class="top">
+                    <label>Your Name:</label>
+                    <input type="text" id="name">
+                    <input type="button" id="callHello" value="hello">
+                </div>
+                <div class="bottom">
+                    <p id="helloResponse"></p>
+                </div>
+            </div>
+            
+
+            <!-- Connect this section to the 'add' API call -->
+            <div class = "box">
+                <div class="top">
+                    <label>Value 1:</label>
+                    <input type="text" id="value1" size="10">
+                    <label>Value 2:</label>
+                    <input type="text" id="value2" size="10">
+                    <input type="button" id="callAdd" value="add">
+                </div>
+                <div class="bottom">
+                    <p id="addResponse"></p>
+                </div>
+            </div>
+
+            <!-- Connect this section to the 'giphy' API call -->
+            <div class = "box">
+                <div class="top">
+                    <label>Giphy Keyword:</label>
+                    <input type="text" id="keyword">
+                    <input type="button" id="callGiphy" value="giphy">
+                </div>
+                <div class="bottom">
+                    <img id="giphyResponse" src="">
+                </div>
+            </div>
+            
+        </div>
+
+        <div id="error" class="hidden"></div>
+    </body>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" 
+            integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" 
+            crossorigin="anonymous">
+    </script>
+    <script src="./script.js"></script>
+</html>
+

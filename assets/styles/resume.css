@@ -1,0 +1,70 @@
+/* Global Box Sizing */
+* {
+	box-sizing: border-box;
+}
+
+/* Headings */
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 1.2em;
+}
+
+/* Hero Styling */
+#hero {
+	max-width: 90%;
+	width: 80%;
+	margin: 150px auto;
+	position: relative;
+	z-index: 1;
+	/* Ensure the hero section is above the particles */
+	line-height: 2em;
+	font-size: 18px;
+}
+
+/* Header Container */
+.container {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 1450px) {
+	iframe {
+		width: 1000px;
+		height: 500px;
+	}
+}
+@media (max-width: 1135px) {
+	iframe {
+		width: 750px;
+	}
+}
+@media (max-width: 850px) {
+	iframe {
+		width: 500px;
+	}
+}
+@media (max-width: 575px) {
+	iframe {
+		width: 440px;
+	}
+}
+@media (max-width: 505px) {
+	iframe {
+		width: 400px;
+	}
+}
+@media (max-width: 430px) {
+	iframe {
+		width: 300px;
+	}
+	h1 {
+		font-size: 2.5em;
+	}
+	#hero {
+		font-size: 16px;
+	}
+}
