@@ -17,11 +17,7 @@ The projects cover web servers, client/server communication, data storage, and w
 
 ## Preview
 
-![Advanced Web Dev homepage](https://noah-readme-assets-v2.vercel.app/advanced-web-home.png)
-
-![Advanced Web Dev lab](https://noah-readme-assets-v2.vercel.app/advanced-web-lab.png)
-
-![Particles demo](https://noah-readme-assets-v2.vercel.app/advanced-web-particles.png)
+![Advanced Web Dev homepage](https://noah-readme-assets-v3.vercel.app/Advanced-Web-Dev-Projects/browser.png)
 
 ## Tech stack
 
