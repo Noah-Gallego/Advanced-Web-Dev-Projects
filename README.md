@@ -2,6 +2,10 @@
 
 A collection of server-side web-development labs and supporting web assets for CMPS 3680.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,sqlite&theme=light" alt="JavaScript, Node.js, HTML, CSS, and SQLite" />
+</p>
+
 ## Overview
 
 - `hello` — a minimal Node.js server project with `server.js` and `package.json`.
@@ -10,6 +14,10 @@ A collection of server-side web-development labs and supporting web assets for C
 - `assets` — shared repository assets.
 
 The projects cover web servers, client/server communication, data storage, and web application structure. Inspect each subproject before running it because setup and entry points differ.
+
+## Preview
+
+![Advanced Web Dev preview](https://noah-readme-assets.vercel.app/advanced-web.png)
 
 ## Tech stack
 
