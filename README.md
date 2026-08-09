@@ -17,7 +17,11 @@ The projects cover web servers, client/server communication, data storage, and w
 
 ## Preview
 
-![Advanced Web Dev preview](https://noah-readme-assets.vercel.app/advanced-web.png)
+![Advanced Web Dev homepage](https://noah-readme-assets-v2.vercel.app/advanced-web-home.png)
+
+![Advanced Web Dev lab](https://noah-readme-assets-v2.vercel.app/advanced-web-lab.png)
+
+![Particles demo](https://noah-readme-assets-v2.vercel.app/advanced-web-particles.png)
 
 ## Tech stack
 
@@ -26,6 +30,13 @@ The projects cover web servers, client/server communication, data storage, and w
 - SQLite3
 - bcrypt
 - HTML and CSS
+
+### Important libraries
+
+- Express
+- `sqlite3`
+- `bcrypt`
+- `particles.js`
 
 ## Usage
 
