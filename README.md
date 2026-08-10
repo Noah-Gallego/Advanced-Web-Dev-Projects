@@ -19,21 +19,6 @@ The projects cover web servers, client/server communication, data storage, and w
 
 ![Advanced Web Dev homepage](https://noah-readme-assets-v3.vercel.app/Advanced-Web-Dev-Projects/browser.png)
 
-## Tech stack
-
-- JavaScript and Node.js
-- Express
-- SQLite3
-- bcrypt
-- HTML and CSS
-
-### Important libraries
-
-- Express
-- `sqlite3`
-- `bcrypt`
-- `particles.js`
-
 ## Usage
 
 For `lab11`, install the dependencies described in `lab11/package.json` and run its verified start script from that directory:
