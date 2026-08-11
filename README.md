@@ -32,3 +32,16 @@ The `hello` package declares no start script; its entry point is `hello/server.j
 ## Status
 
 This repository contains teaching-assistant course projects and examples. The package manifests do not define an automated test suite.
+
+> [!NOTE]
+> The subprojects are independent: inspect the relevant manifest and entry point before running `hello`, `lab11`, or the static `www` site.
+
+## Project architecture
+
+```mermaid
+flowchart LR
+    A[hello/server.js] --> B[Minimal Node.js server]
+    C[lab11/server.js] --> D[Express application]
+    D --> E[(SQLite)]
+    F[www/index.html] --> G[Static browser site]
+```
